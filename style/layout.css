@@ -1,0 +1,18 @@
+#zero{
+    font-family: 'Times New Roman', Times, serif;font-size: 20px;font-weight: 200;text-align: justify;line-height: .75;border:2px;border-style: solid;border-radius: 5px;
+    border: shadow 10px;padding: 2px 2px 2px;margin-inline: 2px;color: rgb(44, 210, 49);font-style: italic;background-color: rgb(4, 60, 45) ;
+}
+#first{
+    font-family: 'Times New Roman', Times, serif;font-size: 20px;font-weight: 200;text-align: justify;line-height: .75;border:2px;border-style: solid;border-radius: 5px;
+    border: shadow 10px;padding: 2px 2px 2px;margin-inline: 2px;color: brown;font-style: italic;box-shadow: 2px;
+}
+#second{
+    font-family: Arial, Helvetica, sans-serif;font-size: 25px;text-align: justify;line-height: .75;border: 5px;border-style: double;border-radius: 5px;color:red;font-style: oblique;
+}
+.third{
+    border:5px;border-style: dotted;border-radius: 5px;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-weight: bold;font-style: initial;color:blueviolet;
+}
+*{
+    margin: 0;
+}
+
